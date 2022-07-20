@@ -1,4 +1,4 @@
-### JSX 문법
+## JSX 문법
 1. className
 
 <div class="APP"></div> x
