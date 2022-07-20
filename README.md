@@ -25,7 +25,8 @@ let data1 = [1,2,3];
 let data2 = [...data1];   
 console.log(data1 === data2)   
 false   
-- date2가 data1을 복사하여 메모리에 할당시 주소 값을 새로 생성하여 false   
+- date2가 data1을 복사하여 메모리에 할당시 주소 값을 새로 생성하여 false 
+ㅁㄴㅇㅁㄴㅇ     
 
 3. 
 let data1 = [1,2,3];   
