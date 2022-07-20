@@ -13,8 +13,7 @@ let post = 'test';
 
 ## useState
 
-1. 
-let data1 = [1,2,3];   
+- let data1 = [1,2,3];
 let data2 = data1;   
 console.log(data1 === data2);   
 true   
