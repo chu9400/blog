@@ -13,11 +13,11 @@ let post = 'test';
 
 ## useState
 
-- let data1 = [1,2,3];
+- let data1 = [1,2,3];   
 let data2 = data1;   
 console.log(data1 === data2);   
 true   
-- 메모리에 할당된 주소 값의 복사 한 것이라 true   
+--- 메모리에 할당된 주소 값의 복사 한 것이라 true   
 
 2. 
 let data1 = [1,2,3];   
